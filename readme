@@ -2,3 +2,8 @@ Some analysis of the 2017 UK General Election.
 
 brexitEffect2017.ipynb calculates the coefficient for swing towards
   'Remain' parties relative to Remain vote percentage in 2017.
+
+Data from electoralCalculus: nb means new boundaries and is a projection
+  of 2005 results onto the 2010 boundaries (650 seats). For other years
+  just use the actual results (ob, old boundaries) as will only use as
+  additional training and can drop any cases where boundaries changed.
